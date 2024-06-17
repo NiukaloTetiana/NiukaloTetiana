@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niukalotetiana&show_icons=true&theme=gruvbox&text_color=d10000&locale=en&layout=compact" alt="niukalotetiana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niukalotetiana&show_icons=true&title_color=0a0a0a&bg_color=d32783&locale=en" alt="niukalotetiana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niukalotetiana&show_icons=true&title_color=0a0a0a&bg_color=f4aed3&locale=en" alt="niukalotetiana" /></p>
