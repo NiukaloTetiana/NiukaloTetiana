@@ -22,7 +22,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; gap: 10px;"> 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%;"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40" height="40"/> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40" height="40"/> 
