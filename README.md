@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="120"/>
 </div>
 
----
-
 📫 #How to reach me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-niukalo/)
@@ -57,6 +55,10 @@
 
 ---
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiukaloTetiana&theme=aura_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiukaloTetiana&theme=aura_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiukaloTetiana&theme=aura_dark" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiukaloTetiana&theme=aura_dark" />
+  <div style="display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiukaloTetiana&theme=aura_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiukaloTetiana&theme=aura_dark" />
+  </div>
+</div>
