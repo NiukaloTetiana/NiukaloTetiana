@@ -8,19 +8,19 @@
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="120"/>
 </div>
 
-<h3 align="left">📄 Know about my experiences [CV](https://drive.google.com/file/d/1rXDNQ1smYqRzwxFxOLD00MdNYlqd0ZPs/view?usp=drive_link)</h3>
+<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1rXDNQ1smYqRzwxFxOLD00MdNYlqd0ZPs/view?usp=drive_link" style="text-decoration: none; color: inherit;">[CV]</a></h3>
 
 ---
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left" style="font-size: 20px;">
-  <a href="https://www.linkedin.com/in/tetiana-niukalo/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/tetiana-niukalo/" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-right: 10px;"/>
   </a>
-  <a href="https://t.me/Tetiana_Niukalo" style="text-decoration: none;">
+  <a href="https://t.me/Tetiana_Niukalo" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-right: 10px;"/>
   </a>
-  <a href="mailto:tanusha.17121994@gmail.com" style="text-decoration: none;">
+  <a href="mailto:tanusha.17121994@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;"/>
   </a>
 </p>
