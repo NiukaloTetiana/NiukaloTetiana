@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=niukalotetiana&label=Profile%20views&color=999999&style=plastic" alt="niukalotetiana" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanya,</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tanya,</h1>
 <h3 align="center">young Front-end developer from Ukraine.</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="120"/>
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%;"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
