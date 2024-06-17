@@ -8,7 +8,9 @@
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="120"/>
 </div>
 
+<div style="display: flex; justify-content: left">
 📫 <h3 align="left">How to reach me:</h3>
+  </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-niukalo/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tetiana_Niukalo)
