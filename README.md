@@ -38,9 +38,9 @@
 
 ---
 
-<div align="center">
+<div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiukaloTetiana&theme=aura_dark" />
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiukaloTetiana&theme=aura_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiukaloTetiana&theme=aura_dark" />
   </div>
