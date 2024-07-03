@@ -8,10 +8,6 @@
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="120"/>
 </div>
 
-<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1rXDNQ1smYqRzwxFxOLD00MdNYlqd0ZPs/view?usp=drive_link" style="text-decoration: none; color: inherit;">[CV]</a></h3>
-
----
-
 <h3 align="left">📫 How to reach me:</h3>
 <div style="display: flex; gap: 10px;">
 <a href="https://www.linkedin.com/in/tetiana-niukalo/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
@@ -39,10 +35,14 @@
 
 ---
 
+<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1rXDNQ1smYqRzwxFxOLD00MdNYlqd0ZPs/view?usp=drive_link" style="text-decoration: none; color: inherit;">[CV]</a></h3>
+
+---
+
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiukaloTetiana&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiukaloTetiana&theme=vue" />
   <div style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiukaloTetiana&theme=aura_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiukaloTetiana&theme=aura_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiukaloTetiana&theme=vue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiukaloTetiana&theme=vue" />
   </div>
 </div>
