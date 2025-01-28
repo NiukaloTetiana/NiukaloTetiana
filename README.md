@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1rXDNQ1smYqRzwxFxOLD00MdNYlqd0ZPs/view?usp=drive_link" style="text-decoration: none; color: inherit;">[CV]</a></h3>
+<h3 align="left">💼 Check out my <a href="https://tetiana-niukalo-portfolio.vercel.app/" style="text-decoration: none; color: inherit;" target="_blank" rel="noopener noreferrer">[portfolio]</a></h3>
 
 ---
 
