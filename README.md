@@ -37,7 +37,11 @@
 
 ---
 
-<h3 align="left">💼 Check out my <a href="https://tetiana-niukalo-portfolio.vercel.app/" style="text-decoration: none; color: inherit;" target="_blank" rel="noopener noreferrer">[portfolio]</a></h3>
+<div style="display: flex; gap: 10px;">
+<h3 align="left">💼 Check out my portfolio</h3>
+
+[![Click Here](https://img.shields.io/badge/Click%20Here-%2341B883?style=for-the-badge)](https://tetiana-niukalo-portfolio.vercel.app/)
+</div>
 
 ---
 
