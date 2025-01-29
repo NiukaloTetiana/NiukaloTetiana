@@ -37,11 +37,11 @@
 
 ---
 
-<div style="display: flex; gap: 10px;">
-<h3 align="left">💼 Check out my portfolio</h3>
-
-[![Click Here](https://img.shields.io/badge/Click%20Here-%2341B883?style=for-the-badge)](https://tetiana-niukalo-portfolio.vercel.app/)
-</div>
+<h3 align="left">💼 Check out my portfolio 
+  <a href="https://tetiana-niukalo-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Click%20Here-%2341B883?style=for-the-badge" alt="Click Here" style="vertical-align: middle;">
+  </a>
+</h3>
 
 ---
 
