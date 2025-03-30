@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tanya,</h1>
-<h3 align="center">young Front-end developer from Ukraine.</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=18&pause=1000&color=1F2328&center=true&width=500&lines=young+Front-end+developer+from+Ukraine." />
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=600&size=18&pause=1000&color=1F2328&center=true&width=500&lines=young+Front-end+developer+from+Ukraine." />
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="120"/>
